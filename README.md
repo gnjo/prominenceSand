@@ -7,6 +7,7 @@ sand box
 bases,320,240,0,0,0,l
 baseborder,320,240,0,0,0,l
 basesplit,320,2,0,140,0,l
+images,140,110,0,0,0,l
 tlistL,210,50,110,0,0,l
 tlistR,210,50,210,0,0,r
 plistL,320,100,0,140,0,l
