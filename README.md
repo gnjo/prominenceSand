@@ -35,5 +35,30 @@ blink,16,16,0,0,100,c
 
 
 ```
+//drawer
+
+let vw={}
+vw.$firstflg=false,
+vw.$ctx=void 0,
+vw.$ctx2=void 0,
+;
+function drawer(){
+ function init(){
+ }
+ init();
+ function save(){
+  if(!vw.$firstflg)
+ }
+ save();
+ function restore(){
+ }
+ restore();
+ ;
+ vw.$xyz 
+
+}
+
+requestAnimationFrame=drawer();
+
 ```
 
