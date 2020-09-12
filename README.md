@@ -14,10 +14,13 @@ plistCl,210,100,110,140,0,l
 plistCr,210,100,110,140,0,r
 plistR,210,100,210,140,0,r
 mes,210,90,110,50,0,c
-infoborder,110,10,320/2,140/2,100,c
+infoborder,110,10,160,120,100,c
 blink,16,16,0,0,100,c
 
 //
+.tl //left
+.tr //right
+.tc //center
 .debug
 .border
 .bordertop
