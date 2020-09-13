@@ -34,6 +34,7 @@ blink,16,16,0,0,100,c
 
 
 
+
 ```
 //drawer
 
@@ -98,4 +99,10 @@ function drawer(){
 requestAnimationFrame=drawer();
 
 ```
+
+
+
+
+
+
 
